@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Hydration",
+    "body": "Always keep fresh water available for your pet and change it daily.",
+    "image": "assets/images/hydration.jpg"
+  },
+  {
+    "title": "Regular Exercise",
+    "body": "Walk or play with your pet daily — 20–30 minutes helps physical health.",
+    "image": "assets/images/exercise.jpg"
+  },
+  {
+    "title": "Balanced Diet",
+    "body": "Feed appropriate portions and avoid sudden diet changes.",
+    "image": "assets/images/diet.jpg"
+  },
+  {
+    "title": "Grooming",
+    "body": "Brush fur regularly and trim nails when needed to prevent discomfort.",
+    "image": "assets/images/grooming.jpg"
+  },
+  {
+    "title": "Vaccinations",
+    "body": "Keep vaccinations up to date and follow your vet's schedule.",
+    "image": "assets/images/vaccine.jpg"
+  }
+]
