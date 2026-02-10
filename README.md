@@ -31,25 +31,26 @@ Final Year Project – Bachelor of Computer Science (Information Security & Assu
 ## App Screenshots
 
 ### Onboarding
-![Onboarding](images/boarding screen.png)
+![Onboarding](images/boarding_screen.png)
 
 ### Login
-![Login](images/login screen.png)
+![Login](images/login_screen.png)
 
 ### Home Dashboard
-![Home](images/home screen.png)
+![Home](images/home_screen.png)
 
 ### Pet Selection
-![Pet Selection](images/pet selection screen.png)
+![Pet Selection](images/pet_selection_screen.png)
 
 ### Pet Profile
-![Pet Profile](images/pet profile screen.png)
+![Pet Profile](images/pet_profile_screen.png)
 
 ### Activity Tracking
-![Activity](images/activity screen.png)
+![Activity](images/activity_screen.png)
 
 ### Reminders
-![Reminders](images/reminder screen.png)
+![Reminders](images/reminder_screen.png)
 
 ### Policy & Rules
-![Policy](images/policy and rules.png)
+![Policy](images/policy_rules.png)
+
