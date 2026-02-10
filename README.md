@@ -1,16 +1,29 @@
-# pethaven
+# PetHaven – Pet Care Monitoring Mobile App
 
-A new Flutter project.
+PetHaven is a Flutter-based mobile application developed as a Final Year Project to help pet owners manage pet profiles, health records, medications, vaccinations, and veterinary appointments through a secure Firebase backend.
 
-## Getting Started
+## Features
+- Pet profile management
+- Smart reminders
+- Health record logging
+- Activity tracking and analytics
+- Care tips and articles
+- Secure user authentication
 
-This project is a starting point for a Flutter application.
+## Technologies Used
+- Flutter (Dart)
+- Firebase Authentication
+- Cloud Firestore
+- Firebase Cloud Messaging
 
-A few resources to get you started if this is your first Flutter project:
+## Security Implementation
+- Secure login using Firebase Authentication  
+- Firestore security rules for protected data access  
+- Strong password validation and privacy controls  
+- User-specific data isolation  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Project Type
+Final Year Project – Bachelor of Computer Science (Information Security & Assurance)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Author
+**Anis Hannani**
