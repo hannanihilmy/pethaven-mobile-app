@@ -27,3 +27,29 @@ Final Year Project – Bachelor of Computer Science (Information Security & Assu
 
 ## Author
 **Anis Hannani**
+
+## App Screenshots
+
+### Onboarding
+![Onboarding](images/boarding screen.png)
+
+### Login
+![Login](images/login screen.png)
+
+### Home Dashboard
+![Home](images/home screen.png)
+
+### Pet Selection
+![Pet Selection](images/pet selection screen.png)
+
+### Pet Profile
+![Pet Profile](images/pet profile screen.png)
+
+### Activity Tracking
+![Activity](images/activity screen.png)
+
+### Reminders
+![Reminders](images/reminder screen.png)
+
+### Policy & Rules
+![Policy](images/policy and rules.png)
